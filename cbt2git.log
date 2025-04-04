@@ -1,0 +1,20 @@
+2025-04-04 08:57:02.010029 - Received CBT.V508.FILE388.PDS from FILE388.XMI 
+2025-04-04 08:57:02.011091 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:57:02.011248 - Found $$DOC.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/$$DOC
+2025-04-04 08:57:02.011407 - Found @FILE388.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/@FILE388
+2025-04-04 08:57:02.011543 - Found ASMFGSAM.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/ASMFGSAM
+2025-04-04 08:57:02.011669 - Found ASMSCHED.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/ASMSCHED
+2025-04-04 08:57:02.011791 - Found ASMSRUN.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/ASMSRUN
+2025-04-04 08:57:02.011912 - Found DESCRIBE.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/DESCRIBE
+2025-04-04 08:57:02.012039 - Found EXPORT.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/EXPORT
+2025-04-04 08:57:02.012168 - Found FAKEGSAM.bin (application/octet-stream) in CBT.V508.FILE388.PDS, moved to PDS/FAKEGSAM
+2025-04-04 08:57:02.012289 - Found FGSAM.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/FGSAM
+2025-04-04 08:57:02.012427 - Found GSAMCALL.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/GSAMCALL
+2025-04-04 08:57:02.012543 - Found GSB.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/GSB
+2025-04-04 08:57:02.012669 - Found OLD8FR.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/OLD8FR
+2025-04-04 08:57:02.012792 - Found SCHEDALC.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/SCHEDALC
+2025-04-04 08:57:02.012938 - Found SCHEDRUN.bin (application/octet-stream) in CBT.V508.FILE388.PDS, moved to PDS/SCHEDRUN
+2025-04-04 08:57:02.013133 - Found SCHEDULE.bin (application/octet-stream) in CBT.V508.FILE388.PDS, moved to PDS/SCHEDULE
+2025-04-04 08:57:02.013275 - Found SFR.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/SFR
+2025-04-04 08:57:02.013411 - Found SRUNPROC.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/SRUNPROC
+2025-04-04 08:57:02.013547 - Found TSOHELP.txt (text/plain) in CBT.V508.FILE388.PDS, moved to PDS/TSOHELP
